@@ -12,7 +12,6 @@ The dataset can be used for various purposes such as facial expression recogniti
 # Citation
 If you use this dataset in your research, please consider citing the original CelebA dataset paper:
 
-Liu, Z., Luo, P., Wang, X., & Tang, X. (2015). Deep learning face attributes in the wild. In Proceedings of the IEEE international conference on computer vision (pp. 3730-3738).
 
 # Acknowledgements
 We would like to thank the authors of the CelebA dataset for making the data available to the public and allowing us to use it for our research.
